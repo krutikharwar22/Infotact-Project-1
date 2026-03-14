@@ -78,7 +78,9 @@ Through leading this deployment, I have gained critical experience in several co
 EDR Engineering: I developed a deep architectural understanding of XDR systems and the complexities of secure agent-manager communication across hybrid environments.
 Incident Response: I moved beyond theoretical knowledge to bridge the gap between "seeing an alert" and "automatically stopping the threat" through automated IPS configurations
 Risk Communication: I learned the vital skill of translating raw, technical CVE data into actionable patching priorities that enable the IT team to address the highest risks first.
+
 **5. Appendices: Technical Verification Screenshots**
+
 •	Figure 1: Wazuh Running Status Implemented Successfully
 •	Figure 2: FIM Success on Ubuntu and Windows Nodes
 •	Figure 3: Vulnerability Reports for Server Infrastructure

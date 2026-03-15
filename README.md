@@ -13,9 +13,7 @@ During this 4-week internship, I led the implementation of Sentient Shield, a ce
 **Week 1: Infrastructure & Agent Grid**
 
 •	Wazuh Manager Deployment: Orchestrated a containerized Wazuh Manager via Docker, ensuring a scalable and isolated management environment.
-![IMG1]
-(C:\Users\Admin\Pictures p1.png)
- 
+
 •	Multi-Platform Integration: Successfully deployed and verified Agents on Ubuntu Server and Windows Server 2022.
 •	Advanced Telemetry: Installed and configured Sysmon64 on Windows to capture high-fidelity process and network logs (T1059 - Command and Scripting Interpreter).
 
@@ -44,15 +42,15 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
  
 •	Visualizing the Kill Chain: Mapped all alerts to the MITRE ATT&CK Framework on the Wazuh Dashboard, allowing the SOC team to visualize the attack from initial access to execution.
 ________________________________________
-3. Evidence of Success (Audit Check)
-|Goal	Evidence Found in Project	Status
-Real-time FIM	Alerts generated for test.txt and /etc/ modifications	Verified ✅
-System Visibility	Sysmon running on Windows; Wazuh Manager active	Verified ✅
-Vulnerability Assessment	Full inventory of High/Critical CVEs mapped	Verified ✅
-Custom Defense	XML Rule 100001 for "Bruce" (Brute-force) attacks	Verified ✅
-|
+**Evidence of Success (Audit Check)**
+Goal	Evidence Found in Project	Status:
+Real-time FIM	Alerts generated for test.txt and /etc/ modifications	(Verified ✅)
+System Visibility	Sysmon running on Windows; Wazuh Manager active	(Verified ✅)
+Vulnerability Assessment	Full inventory of High/Critical CVEs mapped	(Verified ✅)
+Custom Defense	XML Rule 100001 for "Bruce" (Brute-force) attacks	(Verified ✅)
+
 ________________________________________
-**4. Professional Impact & Conclusion**
+**Professional Impact & Conclusion**
 The implementation of Sentient Shield has fundamentally transformed the security posture at Infotact Solutions by significantly reducing both the *Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR). By transitioning the infrastructure from passive logging to Active Defense, the project now provides autonomous, real-time protection against sophisticated threats like ransomware and brute-force attacks.
  Key Internship Takeaways
 Through leading this deployment, I have gained critical experience in several core cybersecurity domains:
@@ -60,7 +58,7 @@ EDR Engineering: I developed a deep architectural understanding of XDR systems a
 Incident Response: I moved beyond theoretical knowledge to bridge the gap between "seeing an alert" and "automatically stopping the threat" through automated IPS configurations
 Risk Communication: I learned the vital skill of translating raw, technical CVE data into actionable patching priorities that enable the IT team to address the highest risks first.
 
-**5. Appendices: Technical Verification Screenshots**
+**Appendices: Technical Verification Screenshots**
 
 •	Figure 1: Wazuh Running Status Implemented Successfully
 •	Figure 2: FIM Success on Ubuntu and Windows Nodes

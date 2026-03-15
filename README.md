@@ -27,6 +27,7 @@ During this 4-week internship, I led the implementation of Sentient Shield, a ce
 **Week 2: Detection Logic & Vulnerability Management**
 
 •	File Integrity Monitoring (FIM): Configured real-time monitoring of critical directories (/etc/, C:\Windows\System32). Validated via PoC by creating/modifying files, resulting in alerts within 5 seconds.
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p4.png?raw=true)
 
 Vulnerability Detection: Enabled the <vulnerability-detection> module using Canonical and MSU feeds.
 o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and critical CVEs (e.g., CVE-2022-3219) on Ubuntu.

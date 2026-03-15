@@ -46,6 +46,7 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 •	Automated Mitigation: Configured the firewall-drop active-response script.
 •	The Scenario: If an SSH brute-force attack is detected (exceeding 5 failed attempts), Sentient Shield automatically bans the attacker's source IP for 1 hour.
 •	Verification: Simulated an attack; verified the IP was successfully blocked in the host’s local firewall (iptables/netsh).
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p12.png?raw=true)
  
 
 **Week 4: Threat Simulation & MITRE Mapping**

@@ -57,11 +57,13 @@ o	Result: Identified 1,000+ high-risk vulnerabilities on the Windows node and cr
 ![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p15.png?raw=true)
 ________________________________________
 **Evidence of Success (Audit Check)**
-Goal	Evidence Found in Project	Status:
-Real-time FIM	Alerts generated for test.txt and /etc/ modifications	(Verified ✅)
-System Visibility	Sysmon running on Windows; Wazuh Manager active	(Verified ✅)
-Vulnerability Assessment	Full inventory of High/Critical CVEs mapped	(Verified ✅)
-Custom Defense	XML Rule 100001 for "Bruce" (Brute-force) attacks	(Verified ✅)
+table
+| Goal | Evidence Found in Project | Status |
+|------| --------------------------|--------|
+|Real-time FIM| Alerts generated for test.txt and /etc/ modifications|	Verified ✅|
+|System Visibility|	Sysmon running on Windows; Wazuh Manager active|	Verified ✅|
+|Vulnerability Assessment|	Full inventory of High/Critical CVEs mapped|	Verified ✅|
+|Custom Defense	|XML Rule 100001 for "Bruce" (Brute-force) attacks| Verified ✅|
 
 ________________________________________
 **Professional Impact & Conclusion**

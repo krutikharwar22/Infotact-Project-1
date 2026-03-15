@@ -18,6 +18,7 @@ During this 4-week internship, I led the implementation of Sentient Shield, a ce
 
 •	Wazuh Manager Deployment: Orchestrated a containerized Wazuh Manager via Docker, ensuring a scalable and isolated management environment.
 ![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p1.png?raw=true)
+![image alt](https://github.com/krutikharwar22/Infotact-Project-1/blob/main/p2.png?raw=true)
 
 •	Multi-Platform Integration: Successfully deployed and verified Agents on Ubuntu Server and Windows Server 2022.
 •	Advanced Telemetry: Installed and configured Sysmon64 on Windows to capture high-fidelity process and network logs (T1059 - Command and Scripting Interpreter).
